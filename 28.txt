@@ -1,3 +1,5 @@
 Name:nandita
 rollno:28
 dept:csd
+cgpa:8.2
+num=9090..
